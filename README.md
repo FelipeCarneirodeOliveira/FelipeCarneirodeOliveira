@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeCarneirodeOliveira
 - 👀 I’m interested in learning to program.
-- 🌱 I’m currently studying Software Engineering at college.            
+- 🌱 I’m currently studying Software Engineering at Uninter.            
 - 📫 How to reach me felipeoliveira.get@gmail.com
 
 <!---
